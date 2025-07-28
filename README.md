@@ -4,3 +4,4 @@ This takes manga updates from a bunch of websites and coalesces it on one websit
 Dependencies:
 pip install beautifulsoup4
 pip install requests
+pip install lxml
